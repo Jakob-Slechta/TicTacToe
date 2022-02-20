@@ -68,7 +68,6 @@ function moveResult() {
         };
         if (a === b && b === c) {
             roundWin = true;
-            break;
         };
 
         if (roundWin == true) {
@@ -82,7 +81,7 @@ function moveResult() {
         };
     };
 };
-//Unfortunately, unable to get moveResult to recognize WHEN a player has won.
+
 
 
 
